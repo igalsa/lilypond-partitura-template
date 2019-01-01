@@ -1,4 +1,4 @@
-# Modelo de partitura Lilypond
+## Modelo de partitura Lilypond
 
-Igor Alves
+Igor Alves  
 Email: igor.a.snts@gmail.com
