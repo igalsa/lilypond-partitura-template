@@ -1,2 +1,1 @@
-# lilypond-partitura-template
-Modelo de partitura Lilypond
+# Modelo de partitura Lilypond
